@@ -16,6 +16,6 @@ Insira o valor que deseja converter.
 Selecione a moeda de origem e a moeda destino.
 Pressione o botão "Converter" para obter a taxa de câmbio atual e visualizar o resultado.
 Use o botão "Copiar Resultado" para copiar o resultado da conversão para a área de transferência.
-##Uso
+## Uso
 1- Substitua a 'key-api' no arquivo JavaScript pela sua própria chave obtida em ExchangeRate API.
 2- Insira o valor, selecione as moedas e clique em "Converter"!
